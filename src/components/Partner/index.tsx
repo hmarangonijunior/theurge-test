@@ -26,37 +26,36 @@ const Partner = () => {
     {
       id: 1,
       icon: RiskIcon,
-      title: 'Make payment seamless',
-      description:
-        'Online or in-store, Quadpay means more flexibility at checkout.',
+      title: 'Take on zero risk',
+      description: 'You get paid today. Your customers pay over time.',
     },
     {
       id: 2,
       icon: CustomerIcon,
-      title: 'Make payment seamless',
+      title: 'Put your customers first',
       description:
-        'Online or in-store, Quadpay means more flexibility at checkout.',
+        'Interest-free installment plans with no hard credit check or impact on credit.',
     },
     {
       id: 3,
       icon: CardIcon,
-      title: 'Make payment seamless',
+      title: 'Accept all major cards',
       description:
-        'Online or in-store, Quadpay means more flexibility at checkout.',
+        'QuadPay is the only Buy Now, Pay Later solution that accepts Amex and Discover along with Visa.',
     },
     {
       id: 4,
       icon: CommunityIcon,
-      title: 'Make payment seamless',
+      title: 'Tap into our community',
       description:
-        'Online or in-store, Quadpay means more flexibility at checkout.',
+        'Introduce your brand to millions of existing QuadPay customers in our marketplace.',
     },
     {
       id: 5,
       icon: ChartIcon,
-      title: 'Make payment seamless',
+      title: 'Track progress',
       description:
-        'Online or in-store, Quadpay means more flexibility at checkout.',
+        'Easily manage customer data, order management, and reconciliation in the merchant portal.',
     },
   ];
   return (
